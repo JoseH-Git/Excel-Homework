@@ -1,3 +1,10 @@
+#Windows
+desktop.ini
+
+MAC OS
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
